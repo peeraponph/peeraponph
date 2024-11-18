@@ -12,10 +12,14 @@
 ## 💡 Expertise
 
 **Languages & Frameworks:**  
-![Languages](https://skillicons.dev/icons?i=html,js,react,nextjs,tailwind,nodejs,python,java,php)
+<div style="margin-top: 10px;">
+  <img src="https://skillicons.dev/icons?i=html,js,react,nextjs,tailwind,nodejs,python,java,php" alt="Languages & Frameworks">
+</div>
 
 **Tools:**  
-![Frameworks](https://skillicons.dev/icons?i=linux,github,cloudflare,docker,kali,nginx,vim,sequelize,azure)
+<div style="margin-top: 10px;">
+  <img src="https://skillicons.dev/icons?i=linux,github,cloudflare,docker,kali,nginx,vim,sequelize,azure" alt="Tools">
+</div>
 
 
 <!---
