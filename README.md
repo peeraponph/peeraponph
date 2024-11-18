@@ -3,10 +3,14 @@
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/peerapon-phokum/)
 
 ---
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peerapon3014&layout=compact&theme=dark&hide_border=true&card_width=370" style="max-width: 100%; width: 370px;"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=peerapon3014&theme=dark&show_icons=true&hide_border=true&card_width=370" style="max-width: 100%; width: 370px;"/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=peerapon3014&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=peerapon3014&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
 ## 💡 Expertise
+
 **Languages & Frameworks:**  
 ![Languages](https://skillicons.dev/icons?i=html,js,react,nextjs,tailwind,nodejs,python,java,php)
 
