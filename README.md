@@ -3,16 +3,12 @@
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/peerapon-phokum/)
 
 ---
-
-## 📈 GitHub Analytics
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=peerapon3014&show_icons=true&theme=github_dark" alt="GitHub Stats" height="150px" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peerapon3014&layout=compact&theme=github_dark" alt="Most Used Languages" height="150px" width="49%"/>
-</div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peerapon3014&layout=compact&theme=dark&hide_border=true&card_width=370" style="max-width: 100%; width: 370px;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=peerapon3014&theme=dark&show_icons=true&hide_border=true&card_width=370" style="max-width: 100%; width: 370px;"/>
 
 ## 💡 Expertise
 **Languages & Frameworks:**  
-![Languages](https://skillicons.dev/icons?i=html,js,react,nextjs,tailwind,nodejs,python,php)
+![Languages](https://skillicons.dev/icons?i=html,js,react,nextjs,tailwind,nodejs,python,java,php)
 
 **Tools:**  
 ![Frameworks](https://skillicons.dev/icons?i=linux,github,cloudflare,docker,kali,nginx,vim,sequelize,azure)
