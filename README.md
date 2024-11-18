@@ -1,16 +1,24 @@
-## Hi there 👋
+## 🛠️ About Me
+- 🌱 Learning Dev/Sec/Ops/SRE Skills
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/peerapon-phokum/)
 
-<!--
-**peerapon3014/peerapon3014** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 📈 GitHub Analytics
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=peerapon3014&show_icons=true&theme=github_dark" alt="GitHub Stats" height="150px" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peerapon3014&layout=compact&theme=github_dark" alt="Most Used Languages" height="150px" width="49%"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 Expertise
+**Languages & Frameworks:**  
+![Languages](https://skillicons.dev/icons?i=html,js,react,nextjs,tailwind,nodejs,python,php)
+
+**Tools:**  
+![Frameworks](https://skillicons.dev/icons?i=linux,github,cloudflare,docker,kali,nginx,vim,sequelize,azure)
+
+
+<!---
+peerapon3014/peerapon3014 is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
