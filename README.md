@@ -1,5 +1,5 @@
 ## 🛠️ About Me
-- 🌱 Learning Dev/Sec/Ops/SRE Skills
+- 🌱 Learning Dev//Ops//Sec//SRE Skills
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/peerapon-phokum/)
 
 ---
