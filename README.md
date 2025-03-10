@@ -13,12 +13,12 @@
 
 **Languages & Frameworks:**  
 <div style="margin-top: 5px;">
-  <img src="https://skillicons.dev/icons?i=html,js,react,nextjs,tailwind,nodejs,python,java,php" alt="Languages & Frameworks">
+  <img src="https://skillicons.dev/icons?i=go,mongodb,html,js,react,nextjs,tailwind,nodejs,python,java,php" alt="Languages & Frameworks">
 </div>
 
 **Tools:**  
 <div style="margin-top: 5px;">
-  <img src="https://skillicons.dev/icons?i=linux,github,cloudflare,docker,kali,nginx,vim,sequelize,azure" alt="Tools">
+  <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,github,cloudflare,kali,nginx,vim,azure" alt="Tools">
 </div>
 
 
