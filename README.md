@@ -1,5 +1,5 @@
 ## 🛠️ About Me
-- 🌱 Learning Dev//Ops//Sec//SRE Skills
+- 🌱 Learning Dev//Ops Skills
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/peerapon-phokum/)
 
 ---
@@ -13,12 +13,17 @@
 
 **Languages & Frameworks:**  
 <div style="margin-top: 5px;">
-  <img src="https://skillicons.dev/icons?i=go,mongodb,html,js,react,nextjs,tailwind,nodejs,python,java,php" alt="Languages & Frameworks">
+  <img src="https://skillicons.dev/icons?i=go,nodejs,python,nextjs,laravel,arduino" alt="Languages & Frameworks">
 </div>
 
 **Tools:**  
 <div style="margin-top: 5px;">
-  <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,github,cloudflare,kali,nginx,vim,azure" alt="Tools">
+  <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,kafka,cloudflare,kali,nginx,vim,azure" alt="Tools">
+</div>
+
+**Databases & Caching:**  
+<div style="margin-top: 5px;">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis" alt="Databases & Caching">
 </div>
 
 
