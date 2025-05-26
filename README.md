@@ -21,7 +21,7 @@
 - 🐘 <strong>PHP</strong>: Laravel  
 - 🤖 <strong>Microcontroller</strong>: 🔌 Arduino, 📶 NodeMCU  
 
-- **_Platform / Tools_**
+**_Platform / Tools_**
 
 - 🐘 PostgreSQL  
 - 🍃 MongoDB  
@@ -31,7 +31,7 @@
 </td>
 <td valign="top" width="50%">
 
-- **_Database & Caching_**
+**_Database & Caching_**
 
 - 🐧 Linux Distro  
 - 🌐 Nginx  
@@ -40,7 +40,7 @@
 - ⚡ REST API  
 - 🔄 Kafka  
 
-- **_Others_**
+**_Others_**
 
 - 🫡 Still growing (and loving it!)  
 
