@@ -8,8 +8,6 @@
   <img src="./asset/tux.gif" width="300" />
 </p>
 
----
-
 ## 💡 Expertise
 
 - **_Golang_**
