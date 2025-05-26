@@ -2,25 +2,21 @@
 - 🌱 Learning Dev//Ops Skills
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/peerapon-phokum/)
 
-<img src="./asset/minitux.gif" /> <br />
+<img src="./asset/tux.gif" /> <br />
 
 ## 💡 Expertise
 
 **Languages & Frameworks:**  
 
-- **_Go_**
+**_Go_**
   - Fiber
-
-- **_Javascript/Typescript_**
+**_Javascript/Typescript_**
   - NodeJS
   - NextJS
-
-- **_Python_**
-
-- **_PHP_**
+**_Python_**
+**_PHP_**
   - Laravel
-
-- **_Micro Controller_**
+**_Micro Controller_**
   - Arduino
   - NodeMCU
 
@@ -31,7 +27,6 @@
   -  Docker 
   -  Azure
   -  Kafka
-
 
 **Databases & Caching:**  
 - 🐘 PostgreSQL
