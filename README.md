@@ -7,14 +7,13 @@
   <img src="./asset/tux.gif" width="300" />
 </p>
 
-
-## 💡 Expertise
+<!-- ## 💡 Expertise -->
 <div align="center">
 <table>
   <tr>
     <td valign="top" width="50%">
 
-### 🖥️ Programming / Framework
+**_Programming / Framework_**
 
 - ⚡ <strong>Go</strong>: Fiber | Gorm  
 - ✨ <strong>JavaScript/TypeScript</strong>: Node.js, Express, Next.js  
@@ -22,7 +21,7 @@
 - 🐘 <strong>PHP</strong>: Laravel  
 - 🤖 <strong>Microcontroller</strong>: 🔌 Arduino, 📶 NodeMCU  
 
-### 🗄️ Database & Caching
+- **_Platform / Tools_**
 
 - 🐘 PostgreSQL  
 - 🍃 MongoDB  
@@ -32,7 +31,7 @@
 </td>
 <td valign="top" width="50%">
 
-### 🧰 Platform / Tools
+- **_Database & Caching_**
 
 - 🐧 Linux Distro  
 - 🌐 Nginx  
@@ -41,7 +40,7 @@
 - ⚡ REST API  
 - 🔄 Kafka  
 
-### 🧠 Others
+- **_Others_**
 
 - 🫡 Still growing (and loving it!)  
 
