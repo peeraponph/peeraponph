@@ -7,8 +7,9 @@
   <img src="./asset/tux.gif" width="300" />
 </p>
 
-<!-- ## 💡 Expertise -->
 <div align="center">
+## 💡 Expertise
+
 <table>
   <tr>
     <td valign="top" width="50%">
@@ -16,7 +17,7 @@
 **_Programming / Framework_**
 
 - ⚡ <strong>Go</strong>: Fiber | Gorm  
-- ✨ <strong>JavaScript/TypeScript</strong>: Node.js, Express, Next.js  
+- ✨ <strong>Js/Ts</strong>: Node.js, Express, Next.js  
 - 🐍 <strong>Python</strong>  
 - 🐘 <strong>PHP</strong>: Laravel  
 - 🤖 <strong>Microcontroller</strong>: 🔌 Arduino, 📶 NodeMCU  
