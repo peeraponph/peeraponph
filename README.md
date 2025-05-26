@@ -7,15 +7,15 @@
   <img src="./asset/tux.gif" width="300" />
 </p>
 
-<!-- ## 💡 Expertise -->
+## 💡 Expertise
 
 - **_Programming / Framework_**
 
-  - ⚡ **[Go]**: Fiber | Gorm 
-  - ✨ **[Js/Ts]**: Node.js | Express | Next.js  
-  - 🐍 **[Python]**  
-  - 🐘 **[PHP]**: Laravel  
-  - 🤖 **[Microcontroller]**: 🔌 Arduino | 📶 NodeMCU  
+  - ⚡ **Go**: Fiber | Gorm 
+  - ✨ **JavaScript/TypeScript**: Node.js | Express | Next.js  
+  - 🐍 **Python**  
+  - 🐘 **PHP**: Laravel  
+  - 🤖 **Microcontroller**: 🔌 Arduino | 📶 NodeMCU  
 
 - **_Platform / Tools_**
 
@@ -23,7 +23,7 @@
   - 🌐 Nginx  
   - 📦 Docker  
   - ⛵ Azure  
-  - ⚡ REST 
+  - ⚡ REST API  
   - 🔄 Kafka  
 
 - **_Database & Caching_**
