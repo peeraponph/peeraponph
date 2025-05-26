@@ -7,32 +7,45 @@
   <img src="./asset/tux.gif" width="300" />
 </p>
 
+---
+
 ## 💡 Expertise
 
-- **_Programming / Framework_**
+<table>
+  <tr>
+    <td valign="top" width="50%">
 
-  - ⚡ **Go**: Fiber | Gorm 
-  - ✨ **JavaScript/TypeScript**: Node.js | Express | Next.js  
-  - 🐍 **Python**  
-  - 🐘 **PHP**: Laravel  
-  - 🤖 **Microcontroller**: 🔌 Arduino | 📶 NodeMCU  
+### 🖥️ Programming / Framework
 
-- **_Platform / Tools_**
+- ⚡ <strong>Go</strong>: Fiber | Gorm  
+- ✨ <strong>JavaScript/TypeScript</strong>: Node.js, Express, Next.js  
+- 🐍 <strong>Python</strong>  
+- 🐘 <strong>PHP</strong>: Laravel  
+- 🤖 <strong>Microcontroller</strong>: 🔌 Arduino, 📶 NodeMCU  
 
-  - 🐧 Linux Distro  
-  - 🌐 Nginx  
-  - 📦 Docker  
-  - ⛵ Azure  
-  - ⚡ REST API  
-  - 🔄 Kafka  
+### 🗄️ Database & Caching
 
-- **_Database & Caching_**
+- 🐘 PostgreSQL  
+- 🍃 MongoDB  
+- 🐬 MySQL  
+- ⚡ Redis  
 
-  - 🐘 PostgreSQL  
-  - 🍃 MongoDB  
-  - 🐬 MySQL  
-  - ⚡ Redis  
+</td>
+<td valign="top" width="50%">
 
-- **_Others_**
+### 🧰 Platform / Tools
 
-  - 🫡 Still growing (and loving it!)
+- 🐧 Linux Distro  
+- 🌐 Nginx  
+- 📦 Docker  
+- ⛵ Azure  
+- ⚡ REST API  
+- 🔄 Kafka  
+
+### 🧠 Others
+
+- 🫡 Still growing (and loving it!)  
+
+</td>
+</tr>
+</table>
