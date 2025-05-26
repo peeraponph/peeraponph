@@ -2,13 +2,13 @@
 - 🌱 Learning Dev//Ops Skills
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/peerapon-phokum/)
 
-<img src="./tux.gif" /> <br />
+<img src="./asset/minitux.gif" /> <br />
 
 ## 💡 Expertise
 
 **Languages & Frameworks:**  
-<div style="margin-top: 5px;">
-  - **_Golang_**
+
+- **_Go_**
   - Fiber
 
 - **_Javascript/Typescript_**
@@ -23,26 +23,22 @@
 - **_Micro Controller_**
   - Arduino
   - NodeMCU
-  
-</div>
 
 **Tools:**  
-<div style="margin-top: 5px;">
   -  Linux Distro
   -  Nginx
   -  REST  
   -  Docker 
   -  Azure
   -  Kafka
-</div>
+
 
 **Databases & Caching:**  
-<div style="margin-top: 5px;">
-  - 🐘 PostgreSQL
-  - MongoDB
-  - MySQL
-  - Radis
-</div>
+- 🐘 PostgreSQL
+- MongoDB
+- MySQL
+- Radis
+
 
 
 <!---
