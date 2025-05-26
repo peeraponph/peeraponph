@@ -11,11 +11,11 @@
 
 - **_Programming / Framework_**
 
-  - ⚡ **Go**: Fiber | Gorm 
-  - ✨ **JavaScript/TypeScript**: Node.js | Express | Next.js  
-  - 🐍 **Python**  
-  - 🐘 **PHP**: Laravel  
-  - 🤖 **Microcontroller**: 🔌 Arduino | 📶 NodeMCU  
+  - ⚡ **[Go]**: Fiber | Gorm 
+  - ✨ **[Js/Ts]**: Node.js | Express | Next.js  
+  - 🐍 **[Python]**  
+  - 🐘 **[PHP]**: Laravel  
+  - 🤖 **[Microcontroller]**: 🔌 Arduino | 📶 NodeMCU  
 
 - **_Platform / Tools_**
 
@@ -23,7 +23,7 @@
   - 🌐 Nginx  
   - 📦 Docker  
   - ⛵ Azure  
-  - ⚡ REST API  
+  - ⚡ REST 
   - 🔄 Kafka  
 
 - **_Database & Caching_**
