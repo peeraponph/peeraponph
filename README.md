@@ -2,7 +2,7 @@
 - 🌱 Learning Dev//Ops Skills  
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/peerapon-phokum/)
 
-<img src="./asset/tux.gif" width="150"/> <br />
+<img src="./asset/tux.gif"/> <br />
 
 ## 💡 Expertise
 
