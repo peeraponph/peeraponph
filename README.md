@@ -7,7 +7,7 @@
   <img src="./asset/tux.gif" width="300" />
 </p>
 
-## 💡 Expertise
+<!-- ## 💡 Expertise -->
 
 - **_Programming / Framework_**
 
