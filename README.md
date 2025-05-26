@@ -1,8 +1,6 @@
 <!-- PROFILE HEADER -->
 ## 🛠️ About Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/peerapon-phokum/)
-
+<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/peerapon-phokum/) -->
 - 🌱 Currently learning Dev//Ops skills  
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/peerapon-phokum/)
 
