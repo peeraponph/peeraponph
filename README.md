@@ -4,10 +4,8 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/peerapon-phokum/)
 
 <p align="center">
-  <img src="./asset/tux.gif" width="360" />
+  <img src="./asset/tux.gif" width="300" />
 </p>
-
----
 
 ## 💡 Expertise
 
@@ -19,8 +17,6 @@
   - 🐘 **PHP**: Laravel  
   - 🤖 **Microcontroller**: 🔌 Arduino | 📶 NodeMCU  
 
----
-
 - **_Platform / Tools_**
 
   - 🐧 Linux Distro  
@@ -30,16 +26,12 @@
   - ⚡ REST API  
   - 🔄 Kafka  
 
----
-
 - **_Database & Caching_**
 
   - 🐘 PostgreSQL  
   - 🍃 MongoDB  
   - 🐬 MySQL  
   - ⚡ Redis  
-
----
 
 - **_Others_**
 
