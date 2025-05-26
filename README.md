@@ -2,28 +2,46 @@
 - 🌱 Learning Dev//Ops Skills
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/peerapon-phokum/)
 
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=peeraponph&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peeraponph&exclude_repo=nextjscloud"  />
-</div>
+<img src="./assets/tux.gif" /> <br />
 
 ## 💡 Expertise
 
 **Languages & Frameworks:**  
 <div style="margin-top: 5px;">
-  <img src="https://skillicons.dev/icons?i=go,nodejs,python,nextjs,laravel,arduino" alt="Languages & Frameworks">
+  - **_Golang_**
+  - Fiber
+
+- **_Javascript/Typescript_**
+  - NodeJS
+  - NextJS
+
+- **_Python_**
+
+- **_PHP_**
+  - Laravel
+
+- **_Micro Controller_**
+  - Arduino
+  - NodeMCU
+  
 </div>
 
 **Tools:**  
 <div style="margin-top: 5px;">
-  <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,kafka,cloudflare,kali,nginx,vim,azure" alt="Tools">
+  -  Linux Distro
+  -  Nginx
+  -  REST  
+  -  Docker 
+  -  Azure
+  -  Kafka
 </div>
 
 **Databases & Caching:**  
 <div style="margin-top: 5px;">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis" alt="Databases & Caching">
+  - 🐘 PostgreSQL
+  - MongoDB
+  - MySQL
+  - Radis
 </div>
 
 
