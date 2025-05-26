@@ -2,9 +2,6 @@
 ## 🛠️ About Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/peerapon-phokum/)
-[![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)](https://golang.org/)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)](https://www.docker.com/)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](https://www.linux.org/)
 
 - 🌱 Currently learning Dev//Ops skills  
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/peerapon-phokum/)
@@ -17,39 +14,47 @@
 
 ## 💡 Expertise
 
-### 💻 Languages & Frameworks
+- **_Golang_**
 
-| Language            | Framework / Tool     | Emoji |
-|---------------------|----------------------|--------|
-| **Go**              | Fiber                | 🐹 ⚡   |
-| **JavaScript/TS**   | Node.js, Next.js     | 🌐 ⚛️   |
-| **Python**          | -                    | 🐍     |
-| **PHP**             | Laravel              | 🐘 🎯  |
-| **Microcontroller** | Arduino, NodeMCU     | 🤖 🔌 📶 |
+  - ⚡ Fiber
 
----
+- **_Javascript/Typescript_**
 
-### 🧰 Tools & Platforms
+  - ✨ Node.js
+  - ✨ Next.js
 
-| Tools        | Emoji |
-|--------------|--------|
-| Linux Distro | 🐧     |
-| Nginx        | 🌐     |
-| REST API     | 📡     |
-| Docker       | 🐳     |
-| Azure        | ☁️     |
-| Kafka        | 🔄     |
+- **_Python_**
 
----
+  - 🤗 Basic scripting & automation
 
-### 🗄️ Databases & Caching
+- **_PHP_**
 
-| Database   | Emoji |
-|------------|--------|
-| PostgreSQL | 🐘     |
-| MongoDB    | 🍃     |
-| MySQL      | 🐬     |
-| Redis      | ⚡     |
+  - 🎯 Laravel
 
----
+- **_Microcontroller_**
+
+  - 🔌 Arduino
+  - 📶 NodeMCU
+
+- **_DevOps / Tools_**
+
+  - 🐧 Linux Distro
+  - 🌐 Nginx
+  - 📦 Docker
+  - ⛵ Azure (learning)
+  - ⚡ REST API
+  - 🔄 Kafka
+  - 🛠️ Git | GitHub | CI/CD basics
+
+- **_Database & Caching_**
+
+  - 🐘 PostgreSQL
+  - 🍃 MongoDB
+  - 🐬 MySQL
+  - ⚡ Redis
+
+- **_Others_**
+
+  - 🫡 Still growing (and loving it!)
+
 
