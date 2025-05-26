@@ -1,39 +1,43 @@
 ## 🛠️ About Me
-- 🌱 Learning Dev//Ops Skills
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/peerapon-phokum/)
+- 🌱 Learning Dev//Ops Skills  
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/peerapon-phokum/)
 
-<img src="./asset/tux.gif" /> <br />
+<img src="./asset/tux.gif" width="150"/> <br />
+
+---
 
 ## 💡 Expertise
 
-**Languages & Frameworks:**  
+### 💻 Languages & Frameworks  
+- **Go** 🐹  
+  - Fiber ⚡  
+- **JavaScript / TypeScript** 🌐  
+  - Node.js 🟩  
+  - Next.js ⚛️  
+- **Python** 🐍  
+- **PHP** 🐘  
+  - Laravel 🎯  
+- **Microcontroller** 🤖  
+  - Arduino 🔌  
+  - NodeMCU 📶  
 
-**_Go_**
-  - Fiber
-**_Javascript/Typescript_**
-  - NodeJS
-  - NextJS
-**_Python_**
-**_PHP_**
-  - Laravel
-**_Micro Controller_**
-  - Arduino
-  - NodeMCU
+---
 
-**Tools:**  
-  -  Linux Distro
-  -  Nginx
-  -  REST  
-  -  Docker 
-  -  Azure
-  -  Kafka
+### 🧰 Tools & Platforms  
+- Linux Distro 🐧  
+- Nginx 🌐  
+- REST API 📡  
+- Docker 🐳  
+- Azure ☁️  
+- Kafka 🔄  
 
-**Databases & Caching:**  
-- 🐘 PostgreSQL
-- MongoDB
-- MySQL
-- Radis
+---
 
+### 🗄️ Databases & Caching  
+- PostgreSQL 🐘  
+- MongoDB 🍃  
+- MySQL 🐬  
+- Redis ⚡  
 
 
 <!---
