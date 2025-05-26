@@ -7,45 +7,43 @@
   <img src="./asset/tux.gif" width="300" />
 </p>
 
----
-
 ## 💡 Expertise
+
+<p align="center">
 
 <table>
   <tr>
     <td valign="top" width="50%">
 
-### 🖥️ Programming / Framework
+      <strong>🖥️ Programming / Framework</strong><br><br>
+      • ⚡ <strong>Go</strong>: Fiber | Gorm <br>
+      • ✨ <strong>JavaScript/TypeScript</strong>: Node.js, Express, Next.js <br>
+      • 🐍 <strong>Python</strong> <br>
+      • 🐘 <strong>PHP</strong>: Laravel <br>
+      • 🤖 <strong>Microcontroller</strong>: 🔌 Arduino, 📶 NodeMCU <br><br>
 
-- ⚡ <strong>Go</strong>: Fiber | Gorm  
-- ✨ <strong>JavaScript/TypeScript</strong>: Node.js, Express, Next.js  
-- 🐍 <strong>Python</strong>  
-- 🐘 <strong>PHP</strong>: Laravel  
-- 🤖 <strong>Microcontroller</strong>: 🔌 Arduino, 📶 NodeMCU  
+      <strong>🗄️ Database & Caching</strong><br><br>
+      • 🐘 PostgreSQL <br>
+      • 🍃 MongoDB <br>
+      • 🐬 MySQL <br>
+      • ⚡ Redis <br>
 
-### 🗄️ Database & Caching
+    </td>
+    <td valign="top" width="50%">
 
-- 🐘 PostgreSQL  
-- 🍃 MongoDB  
-- 🐬 MySQL  
-- ⚡ Redis  
+      <strong>🧰 Platform / Tools</strong><br><br>
+      • 🐧 Linux Distro <br>
+      • 🌐 Nginx <br>
+      • 📦 Docker <br>
+      • ⛵ Azure <br>
+      • ⚡ REST API <br>
+      • 🔄 Kafka <br><br>
 
-</td>
-<td valign="top" width="50%">
+      <strong>🧠 Others</strong><br><br>
+      • 🫡 Still growing (and loving it!) <br>
 
-### 🧰 Platform / Tools
-
-- 🐧 Linux Distro  
-- 🌐 Nginx  
-- 📦 Docker  
-- ⛵ Azure  
-- ⚡ REST API  
-- 🔄 Kafka  
-
-### 🧠 Others
-
-- 🫡 Still growing (and loving it!)  
-
-</td>
-</tr>
+    </td>
+  </tr>
 </table>
+
+</p>
