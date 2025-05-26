@@ -4,8 +4,6 @@
 
 <img src="./asset/tux.gif" width="150"/> <br />
 
----
-
 ## 💡 Expertise
 
 ### 💻 Languages & Frameworks  
