@@ -4,7 +4,7 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/peerapon-phokum/)
 
 <p align="center">
-  <img src="./asset/tux.gif" width="640" />
+  <img src="./asset/tux.gif" width="600" />
 </p>
 
 <!-- ## 💡 Expertise -->
