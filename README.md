@@ -7,7 +7,7 @@
   <img src="./asset/tux.gif" width="300" />
 </p>
 
-## 💡 Expertise
+<!-- ## 💡 Expertise -->
 
 <div align="center">
 <table>
@@ -22,7 +22,7 @@
 - 🐘 <strong>PHP</strong>: Laravel  
 - 🤖 <strong>Microcontroller</strong>: 🔌 Arduino, 📶 NodeMCU  
 
-**_Platform / Tools_**
+**_Database & Caching_**
 
 - 🐘 PostgreSQL  
 - 🍃 MongoDB  
@@ -30,9 +30,10 @@
 - ⚡ Redis  
 
 </td>
+
 <td valign="top" width="50%">
 
-**_Database & Caching_**
+**_Platform / Tools_**
 
 - 🐧 Linux Distro  
 - 🌐 Nginx  
