@@ -7,9 +7,9 @@
   <img src="./asset/tux.gif" width="300" />
 </p>
 
-<div align="center">
 ## 💡 Expertise
 
+<div align="center">
 <table>
   <tr>
     <td valign="top" width="50%">
