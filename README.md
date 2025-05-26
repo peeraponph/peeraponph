@@ -10,37 +10,22 @@
 
 ## 💡 Expertise
 
-- **_Golang_**
+- **_Programing / Framework_**
 
-  - ⚡ Fiber
+  - ⚡[Go] Fiber
+  - ✨[JavaScript] Node.js | Express | Next.js
+  - [Python]
+  - [PHP] Laravel
+  - ✨[Microcontroller] 🔌 Arduino | 📶 NodeMCU 
 
-- **_Javascript/Typescript_**
-
-  - ✨ Node.js
-  - ✨ Next.js
-
-- **_Python_**
-
-  - 🤗 Basic scripting & automation
-
-- **_PHP_**
-
-  - 🎯 Laravel
-
-- **_Microcontroller_**
-
-  - 🔌 Arduino
-  - 📶 NodeMCU
-
-- **_DevOps / Tools_**
+- **_Platform / Tools_**
 
   - 🐧 Linux Distro
   - 🌐 Nginx
   - 📦 Docker
-  - ⛵ Azure (learning)
+  - ⛵ Azure 
   - ⚡ REST API
   - 🔄 Kafka
-  - 🛠️ Git | GitHub | CI/CD basics
 
 - **_Database & Caching_**
 
