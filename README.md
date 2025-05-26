@@ -8,7 +8,6 @@
 </p>
 
 <!-- ## 💡 Expertise -->
----
 
 <div align="center">
 <table>
