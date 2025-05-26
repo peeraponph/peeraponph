@@ -39,7 +39,7 @@
 - 🌐 Nginx  
 - 📦 Docker  
 - ⛵ Azure  
-- ⚡ REST API  
+- ⚡ REST | gRPC  
 - 🔄 Kafka  
 
 **_Others_**
