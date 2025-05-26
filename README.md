@@ -1,16 +1,14 @@
+<div align="center">
+
 ## 🛠️ About Me
 <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/peerapon-phokum/) -->
 - 🌱 Currently learning Dev//Ops skills  
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/peerapon-phokum/)
 
-<p align="center">
-  <img src="./asset/tux.gif" width="300" />
-</p>
-
+<img src="./asset/tux.gif" width="300" />
 
 ## 💡 Expertise
 
-<p align="center">
 <table>
   <tr>
     <td valign="top" width="50%">
@@ -49,4 +47,5 @@
 </td>
 </tr>
 </table>
-</p>
+
+</div>
