@@ -51,11 +51,12 @@
 
 <tr>
 <td valign="top" width="50%">
-<img src="https://awesome-github-stats.azurewebsites.net/user-stats/peeraponph?cardType=level-alternate&amp;theme=monokai&amp" />
+  <img src="https://github-readme-stats.vercel.app/api?username=peeraponph&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
+
 </td>
 
 <td valign="top" width="50%">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=peeraponph&amp;theme=github_dark" alt="code" width="100%" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=peeraponph&amp;theme=github_dark" alt="code" height="150" />
 </td>
 </tr>
 
