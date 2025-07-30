@@ -7,6 +7,13 @@
   <img src="./asset/tux.gif" width="600" />
 </p>
 
+<table>
+<tr>
+<td><img src="https://awesome-github-stats.azurewebsites.net/user-stats/peeraponph?cardType=level-alternate&amp;theme=monokai&amp;Text=DDA22A" alt="stat-rank's GitHub Stats" width="100%" /></td>
+<td><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=peeraponph&amp;theme=monokai" alt="code" width="100%" /></td>
+</tr>
+</table>
+
 <!-- ## 💡 Expertise -->
 
 <div align="center">
