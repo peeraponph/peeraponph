@@ -51,7 +51,7 @@
 
 <tr>
 <td valign="top" width="50%">
-<img src="https://awesome-github-stats.azurewebsites.net/user-stats/peeraponph?cardType=level-alternate&amp;&theme=github_dark;Text=DDA22A" alt="stat-rank's GitHub Stats" width="100%" />
+<img src="https://awesome-github-stats.azurewebsites.net/user-stats/peeraponph?cardType=level-alternate&amp;theme=github_dark" />
 </td>
 
 <td valign="top" width="50%">
