@@ -7,53 +7,57 @@
   <img src="./asset/tux.gif" width="600" />
 </p>
 
+<!-- ## 💡 Expertise -->
+
 <div align="center">
-  <table>
-    <tr>
-      <td valign="top" width="50%">
+<table>
+  <tr>
+    <td valign="top" width="50%">
 
-        <h3><strong>Programming / Framework</strong></h3>
+**_Programming / Framework_**
 
-        - ⚡ <strong>Go</strong>: Fiber | Gorm  
-        - ✨ <strong>Js/Ts</strong>: Node.js, Express, Next.js  
-        - 🐍 <strong>Python</strong>  
-        - 🐘 <strong>PHP</strong>: Laravel  
-        - 🤖 <strong>Microcontroller</strong>: 🔌 Arduino, 📶 NodeMCU  
+- ⚡ <strong>Go</strong>: Fiber | Gorm  
+- ✨ <strong>Js/Ts</strong>: Node.js, Express, Next.js  
+- 🐍 <strong>Python</strong>  
+- 🐘 <strong>PHP</strong>: Laravel  
+- 🤖 <strong>Microcontroller</strong>: 🔌 Arduino, 📶 NodeMCU  
 
-        <h3><strong>Database & Caching</strong></h3>
+**_Database & Caching_**
 
-        - 🐘 PostgreSQL  
-        - 🍃 MongoDB  
-        - 🐬 MySQL  
-        - ⚡ Redis  
+- 🐘 PostgreSQL  
+- 🍃 MongoDB  
+- 🐬 MySQL  
+- ⚡ Redis  
 
-      </td>
-      <td valign="top" width="50%">
+</td>
 
-        <h3><strong>Platform / Tools</strong></h3>
+<td valign="top" width="50%">
 
-        - 🐧 Linux Distro  
-        - 🌐 Nginx  
-        - 📦 Docker  
-        - ⛵ Azure  
-        - ⚡ REST  
-        - 🔄 Kafka  
+**_Platform / Tools_**
 
-        <h3><strong>Others</strong></h3>
+- 🐧 Linux Distro  
+- 🌐 Nginx  
+- 📦 Docker  
+- ⛵ Azure  
+- ⚡ REST
+- 🔄 Kafka  
 
-        - 🫡 Still growing (and loving it!)  
+**_Others_**
 
-      </td>
-    </tr>
+- 🫡 Still growing (and loving it!)  
 
-    <tr>
-      <td valign="top" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=peeraponph&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true" width="100%" alt="stats graph" />
-      </td>
+</td>
+</tr>
 
-      <td valign="top" width="50%">
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=peeraponph&amp;theme=github_dark" width="100%" alt="code language summary" />
-      </td>
-    </tr>
-  </table>
+<tr>
+<td valign="top" width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=peeraponph&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true" width="100%" alt="stats graph" />
+</td>
+
+<td valign="top" width="50%">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=peeraponph&amp;theme=github_dark" width="100%" alt="code language summary" />
+</td>
+</tr>
+
+</table>
 </div>
