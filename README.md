@@ -51,7 +51,7 @@
 
 <tr>
 <td valign="top" width="50%">
-<img src="https://awesome-github-stats.azurewebsites.net/user-stats/peeraponph?cardType=level-alternate&amp;theme=github_dark" />
+<img src="https://awesome-github-stats.azurewebsites.net/user-stats/peeraponph?cardType=level-alternate&amp;theme=monokai&amp" />
 </td>
 
 <td valign="top" width="50%">
